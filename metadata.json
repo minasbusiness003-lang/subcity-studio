@@ -1,0 +1,6 @@
+{
+  "name": "Subcity Boi World Studio",
+  "description": "An advanced music track analyzer and reference-driven visual AI video generation storyboard planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
